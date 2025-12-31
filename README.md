@@ -1,1 +1,2 @@
 hama
+ngapain liat liat
