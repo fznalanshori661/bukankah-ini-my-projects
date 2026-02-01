@@ -1,6 +1,0 @@
-- [x] Reduce size of social icons in footer (.social-icon) from 30px to 20px
-- [x] Reduce size of contact info icons (.info-icon) from 50px to 35px
-- [x] Reduce size of stats icons (.stat-icon) from 80px to 60px
-- [x] Reduce size of philosophy pillar icons (.pillar-icon) from 80px to 60px
-- [ ] Reduce size of logo icon (.logo-icon) from 45px to 35px
-- [ ] Reduce size of skill hexagon icons (.skill-icon-hex) from 48px to 36px
